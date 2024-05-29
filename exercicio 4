@@ -1,0 +1,29 @@
+#include <stdio.h>
+int main () {
+
+int matriz [3] [3];
+int i, j, zeros = 0
+
+printf ("digite os valores da matriz");
+for (i = 0; i < 3; i ++); {
+  for (j = 0; j < 3; j ++); {
+
+  printf ("digite o valor da posição [%d] [%d] [%d]:");
+  scanf ("%d" ,&matriz  [i] [j] );
+
+    }
+  }
+
+  for (i = 0; i < 3; i++) {
+    for (j =  0; j < 3; j ++) {
+
+    if (matriz [i] [j] == 0;
+    }
+  }
+}
+
+printf ("o numero é");
+
+return 0;
+
+}
