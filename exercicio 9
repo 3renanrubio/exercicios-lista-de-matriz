@@ -1,0 +1,34 @@
+#include <stdio.h>
+int main() {
+    int matrix[3][2];
+    int transposta[2][3];
+    int i, j;
+
+    printf ("digite os elementos da matriz");
+    for (i = 0; i < 3; i ++);
+      for (j = 0; j < 3; j ++);
+      printf ("digite os elementos da posição [%d] [%d];" , i, j);
+      scanf ("%d", &matriz [i] [j]);
+
+        }
+      }
+    for (i = 0; i < 3; i ++);
+      for (j = 0; j < 3; j ++);
+    transposta [j] [i] = matriz [i] [j];
+    printf ("\n");
+
+    }
+
+    printf ("matriz transposta");
+    for (i = 0; i < 3; i ++);
+      for (j = 0; j < 3; j ++);
+      printf ("%d", transposta [i] [j]);
+
+      }
+      
+      printf ("\n");
+      
+      }
+      
+      return 0;
+      }
